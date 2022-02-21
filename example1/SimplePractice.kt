@@ -17,6 +17,7 @@ fun helloWorld(){
 /**
  * var -> 재할당가능
  * val -> 재할당 불가능
+ * var 은 varialbe, val 은 value 라고 생각하면 될듯
  */
 fun hi(){
     val a : Int = 10
